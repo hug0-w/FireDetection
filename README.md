@@ -1,5 +1,4 @@
 # InfernoNet
-Using Machine Learning to detect wild fires from aeriel footage.
 
 The aim of this project was to develop a deployable neural network for use in 
 early detection systems of forest fires.
