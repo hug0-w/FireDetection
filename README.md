@@ -3,7 +3,7 @@
 The aim of this project was to develop a deployable neural network for use in 
 early detection systems of forest fires.
 
-Overall Project Grade: 86%
+Project Grade: 86%
 
 ## Dataset description:
 
