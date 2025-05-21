@@ -81,6 +81,15 @@ with the following design:
 
 ## Robustness Simulations
 
+$$
+\text{Robust} = \frac{\text{Mean F1 score over N scenarios}}{\text{Base F1 Score}} \frac{N}{N+1} \quad (10)
+$$
+
 <img src="https://github.com/user-attachments/assets/fa149902-24c5-481a-b4ea-7cc4f5c8132d" width="400">
+
+
+## Results
+
+![image](https://github.com/user-attachments/assets/9a6b80c7-d66a-45d6-94c7-607c3150d731)
 
 
