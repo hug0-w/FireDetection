@@ -79,7 +79,11 @@ with the following design:
 <img src="https://github.com/user-attachments/assets/d235bd87-deaf-46ce-a8c2-bf05dfa15167" width="400">
 
 
+For more info please look at the report (pdf)!
+
 ## Robustness Simulations
+
+Defining a new robustness metric:
 
 $$
 \text{Robust} = \frac{\text{Mean F1 score over N scenarios}}{\text{Base F1 Score}} \frac{N}{N+1} \quad (10)
