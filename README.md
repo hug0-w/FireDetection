@@ -146,4 +146,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 -   The FLAME dataset authors.
--   Anyone else you would like to thank.
